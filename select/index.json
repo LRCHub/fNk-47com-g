@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "充Den中",
+  "base_artist": "GeTO",
+  "createdAt": "2026-04-02T13:44:16.747591Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "充Den中",
+      "artist": "GeTO",
+      "has_synced": false,
+      "path": "select/pl_01_充Den中_GeTO.txt"
+    }
+  ]
+}
